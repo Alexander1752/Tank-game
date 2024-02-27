@@ -13,5 +13,7 @@ Programul porneste de la framework-ul de grafica UPB [1] si implementează toate
 - iluminarea Phong este implementată în fragment shader, așa cum este descrisă în laboratorul 8 [3]
 
  [1] https://github.com/UPB-Graphics/gfx-framework
+ 
  [2] https://ocw.cs.pub.ro/courses/egc/teme/2023/02
+ 
  [3] https://ocw.cs.pub.ro/courses/egc/laboratoare/08
