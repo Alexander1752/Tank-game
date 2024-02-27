@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\EGC\tema2\build\CMakeFiles\2729174b94e089f23ac8fd98af0c5307\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\EGC\tema2\infra\utils.cmake">
+      <Filter>Buildsystem Input Files\infra</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1EFBF1CB-B251-3A3F-BC4B-BAA65C203714}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\infra">
+      <UniqueIdentifier>{0291CE99-5A96-34E6-9D65-074B77D2FCE4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
